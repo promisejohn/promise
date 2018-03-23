@@ -131,7 +131,7 @@ comment:
   # https://api.douban.com/v2/movie/subject/:id 单个电影信息
   # https://api.douban.com/v2/movie/search?q={text} 电影搜索
 douban:
-  user: # 豆瓣用户名
+  user: promisejohn # 豆瓣用户名
   start: 0 # 从哪一条记录开始
   count: 100 # 获取豆瓣书单数据条数
 
@@ -177,8 +177,6 @@ profile:
   social:
     links:
       github: https://github.com/promisejohn
-      weibo: http://weibo.com/promisejohn
-      twitter: https://twitter.com/promisejohn
       # facebook: /
       # dribbble: /
       # behance: https://www.behance.net/cofess
@@ -192,7 +190,6 @@ profile:
   links:
     Github: https://github.com/promisejohn
     Blog: http://blog.any1024.top
-    微博: http://weibo.com/promisejohn
     # 花瓣: http://huaban.com/promisejohn
     # Behance: https://www.behance.net/cofess
   # My Personal Labels
