@@ -4,3 +4,5 @@ layout: links
 comments: false
 ---
 
+1. [Nodejs for wechat](http://www.node-weixin.com/)
+2. 
