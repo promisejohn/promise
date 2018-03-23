@@ -1,7 +1,7 @@
 # menu
 menu:
-  Home: .
-  Archives: archives  # 归档
+  首页: .
+  归档: archives  # 归档
   Categories: categories  # 分类
   Tags: tags  # 标签
   Repository: repository  # github repositories
