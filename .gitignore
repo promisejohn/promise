@@ -57,5 +57,8 @@ typings/
 # dotenv environment variables file
 .env
 
+
+# Other:
 .DS_Store
 public
+db.json
