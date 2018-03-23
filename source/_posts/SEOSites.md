@@ -19,6 +19,7 @@ tags: SEO
 ## 增长黑客推荐
 
 1. [Growthbox](http://growthbox.net/)
+2. [GrowingIO](growingio.com)
 
 
 
