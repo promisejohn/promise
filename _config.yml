@@ -7,7 +7,7 @@ title: 程序员的黑客增长日记
 subtitle: 只差一个程序员了
 description: 程序员-黑客增长-全栈开发-数据运营-成长日记
 author: 程一初
-language: zh 
+language: zh
 timezone: Asia/Shanghai
 
 # URL
@@ -42,7 +42,7 @@ highlight:
   line_number: true
   auto_detect: false
   tab_replace:
-  
+
 # Home page setting
 # path: Root path for your blogs index page. (default = '')
 # per_page: Posts displayed per page. (0 = disable pagination)
@@ -51,7 +51,7 @@ index_generator:
   path: ''
   per_page: 10
   order_by: -date
-  
+
 # Category & Tag
 default_category: uncategorized
 category_map:
@@ -80,7 +80,7 @@ deploy:
 - type: rsync
   host: 39.108.187.184
   user: hexo
-  root: 
+  root:
   port: [port]
   delete: [true|false]
   verbose: [true|false]
@@ -94,7 +94,7 @@ deploy:
 
 # 导航菜单
 menu:
-  Home: . 
+  首页: . 
   Archives: archives # 归档
   Categories: categories # 分类
   Tags: tags # 标签
@@ -134,8 +134,8 @@ share:
 comment:
   type: livere # 启用哪种评论系统
   disqus:  # enter disqus shortname here
-  youyan: 
-    #uid: *** # enter youyan uid 
+  youyan:
+    #uid: *** # enter youyan uid
   livere:
    # uid: *** # enter livere uid
   gitment:
@@ -146,7 +146,7 @@ comment:
    # lazy: false
 
 # Github
-github: 
+github:
   username: promisejohn  # github username
 
 # douban 豆瓣书单
